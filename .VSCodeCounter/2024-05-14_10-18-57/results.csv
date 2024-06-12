@@ -1,0 +1,13 @@
+"filename", "language", "JSON", "JavaScript", "comment", "blank", "total"
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\package-lock.json", "JSON", 1943, 0, 0, 1, 1944
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\package.json", "JSON", 21, 0, 0, 1, 22
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\controladores\musica.js", "JavaScript", 0, 0, 0, 1, 1
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\controladores\persona.js", "JavaScript", 0, 70, 4, 7, 81
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\index.js", "JavaScript", 0, 30, 0, 5, 35
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\middleware\encrypt.js", "JavaScript", 0, 22, 0, 2, 24
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\middleware\jstUtils.js", "JavaScript", 0, 20, 0, 3, 23
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\modelos\musica.js", "JavaScript", 0, 6, 0, 4, 10
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\modelos\playlist.js", "JavaScript", 0, 6, 0, 3, 9
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\rutas\musica.js", "JavaScript", 0, 21, 0, 2, 23
+"c:\Users\Daniel Padilla\Desktop\UNIVERSIDAD\5 SEMESTRE\Programación Web\backend\src\rutas\persona.js", "JavaScript", 0, 30, 0, 5, 35
+"Total", "-", 1964, 205, 4, 34, 2207

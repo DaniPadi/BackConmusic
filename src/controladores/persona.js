@@ -11,7 +11,7 @@ const secretKey = "pepe";
 const pool = new Pool({
     user: 'tu_usuario',
     host: '0.0.0.0',
-    database: 'conmusic',
+    database: 'tu_base_de_datos',
     password: 'tu_contraseña',
     port: 5432,
 });

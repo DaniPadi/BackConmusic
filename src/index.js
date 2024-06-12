@@ -9,7 +9,7 @@ const cors = require('cors');
 const validarToken = require('./middleware/jstUtils');
 const mongoose = require('mongoose');
 
-const mongoUri = 'mongodb://localhost:27017/nueva';
+const mongoUri = 'mongodb://localhost:27017/local';
 mongoose.connect(mongoUri, { useNewUrlParser: true, useUnifiedTopology: true });
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'Error de conexión a MongoDB:'));
